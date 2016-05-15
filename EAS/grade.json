@@ -1,0 +1,595 @@
+{
+    "2": [
+          {
+          "score": "87",
+          "retake": "-",
+          "resit": "-",
+          "credit": "2.0",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "87",
+          "name": "C语言程序课程设计",
+          "id": "05190102"
+          },
+          {
+          "score": "73",
+          "retake": "-",
+          "resit": "-",
+          "credit": "3.0",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "72",
+          "name": "道德与法",
+          "id": "09150104"
+          },
+          {
+          "score": "75",
+          "retake": "-",
+          "resit": "-",
+          "credit": "1.5",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "75",
+          "name": "男子排球",
+          "id": "13201023"
+          },
+          {
+          "score": "65",
+          "retake": "-",
+          "resit": "-",
+          "credit": "2.0",
+          "attribution": "人文社科类",
+          "nature": "4",
+          "grade": "72",
+          "name": "欧洲文化入门(通识)",
+          "id": "10140567"
+          },
+          {
+          "score": "60",
+          "retake": "-",
+          "resit": "-",
+          "credit": "5.0",
+          "attribution": "-",
+          "nature": "1",
+          "grade": "74",
+          "name": "高等数学2",
+          "id": "12110104"
+          },
+          {
+          "score": "80",
+          "retake": "-",
+          "resit": "-",
+          "credit": "1.0",
+          "attribution": "-",
+          "nature": "1",
+          "grade": "86",
+          "name": "英语口语2",
+          "id": "10130106"
+          },
+          {
+          "score": "49",
+          "retake": "-",
+          "resit": "-",
+          "credit": "2.0",
+          "attribution": "-",
+          "nature": "1",
+          "grade": "62",
+          "name": "大学英语2",
+          "id": "10110102"
+          },
+          {
+          "score": "79",
+          "retake": "-",
+          "resit": "-",
+          "credit": "4.0",
+          "attribution": "-",
+          "nature": "1",
+          "grade": "83",
+          "name": "数据结构",
+          "id": "05110126"
+          },
+          {
+          "score": "66",
+          "retake": "-",
+          "resit": "-",
+          "credit": "3.5",
+          "attribution": "-",
+          "nature": "1",
+          "grade": "69",
+          "name": "大学物理II1",
+          "id": "12120104"
+          }
+          ],
+    "5": [
+          {
+          "score": "85",
+          "retake": "-",
+          "resit": "-",
+          "credit": "3",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "86",
+          "name": "Web高级程序设计",
+          "id": "05120328"
+          },
+          {
+          "score": "92",
+          "retake": "-",
+          "resit": "-",
+          "credit": "1",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "93",
+          "name": "Web程序设计课程设计",
+          "id": "05120135"
+          },
+          {
+          "score": "88",
+          "retake": "-",
+          "resit": "-",
+          "credit": "1.0",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "88",
+          "name": "网络互联技术课程设计",
+          "id": "05140153"
+          },
+          {
+          "score": "88",
+          "retake": "-",
+          "resit": "-",
+          "credit": "3.0",
+          "attribution": "-",
+          "nature": "3",
+          "grade": "90",
+          "name": "网站开发工具",
+          "id": "05140343"
+          },
+          {
+          "score": "86",
+          "retake": "-",
+          "resit": "-",
+          "credit": "3.0",
+          "attribution": "-",
+          "nature": "3",
+          "grade": "92",
+          "name": "网络安全基础",
+          "id": "05120340"
+          },
+          {
+          "score": "72",
+          "retake": "-",
+          "resit": "-",
+          "credit": "3.0",
+          "attribution": "-",
+          "nature": "3",
+          "grade": "77",
+          "name": "计算机算法基础",
+          "id": "05110354"
+          },
+          {
+          "score": "88",
+          "retake": "-",
+          "resit": "-",
+          "credit": "3.0",
+          "attribution": "-",
+          "nature": "1",
+          "grade": "89",
+          "name": "网络互联技术",
+          "id": "05140111"
+          },
+          {
+          "score": "87",
+          "retake": "-",
+          "resit": "-",
+          "credit": "4",
+          "attribution": "-",
+          "nature": "1",
+          "grade": "87",
+          "name": "计算机组成原理",
+          "id": "05140106"
+          }
+          ],
+    "1": [
+          {
+          "score": "79",
+          "retake": "-",
+          "resit": "-",
+          "credit": "2.0",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "78",
+          "name": "中国近现代史纲要",
+          "id": "09150110"
+          },
+          {
+          "score": "76",
+          "retake": "-",
+          "resit": "-",
+          "credit": "2.0",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "80",
+          "name": "线性代数",
+          "id": "12130132"
+          },
+          {
+          "score": "及格",
+          "retake": "-",
+          "resit": "-",
+          "credit": "3.0",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "及格",
+          "name": "军事技能训练",
+          "id": "00000101"
+          },
+          {
+          "score": "89",
+          "retake": "-",
+          "resit": "-",
+          "credit": "1.5",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "89",
+          "name": "大学体育1",
+          "id": "13201045"
+          },
+          {
+          "score": "75",
+          "retake": "-",
+          "resit": "-",
+          "credit": "2.0",
+          "attribution": "工程技术类",
+          "nature": "3",
+          "grade": "81",
+          "name": "多媒体应用技术(通识)",
+          "id": "05190327"
+          },
+          {
+          "score": "50.5",
+          "retake": "-",
+          "resit": "-",
+          "credit": "2.0",
+          "attribution": "-",
+          "nature": "1",
+          "grade": "62",
+          "name": "大学英语1",
+          "id": "10110101"
+          },
+          {
+          "score": "75",
+          "retake": "-",
+          "resit": "-",
+          "credit": "1.0",
+          "attribution": "-",
+          "nature": "1",
+          "grade": "80",
+          "name": "英语口语1",
+          "id": "10130305"
+          },
+          {
+          "score": "79",
+          "retake": "-",
+          "resit": "-",
+          "credit": "2.0",
+          "attribution": "-",
+          "nature": "1",
+          "grade": "81",
+          "name": "计算机导论",
+          "id": "05190111"
+          },
+          {
+          "score": "86",
+          "retake": "-",
+          "resit": "-",
+          "credit": "4.0",
+          "attribution": "-",
+          "nature": "1",
+          "grade": "86",
+          "name": "C语言程序设计",
+          "id": "05110104"
+          },
+          {
+          "score": "86",
+          "retake": "-",
+          "resit": "-",
+          "credit": "5.5",
+          "attribution": "-",
+          "nature": "1",
+          "grade": "85",
+          "name": "高等数学Ⅰ1",
+          "id": "12110103"
+          }
+          ],
+    "3": [
+          {
+          "score": "良",
+          "retake": "-",
+          "resit": "-",
+          "credit": "2.0",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "良",
+          "name": "大学物理实验II",
+          "id": "12120109"
+          },
+          {
+          "score": "80",
+          "retake": "-",
+          "resit": "-",
+          "credit": "1.5",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "80",
+          "name": "男子足球3",
+          "id": "13201053"
+          },
+          {
+          "score": "91",
+          "retake": "-",
+          "resit": "-",
+          "credit": "1.0",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "91",
+          "name": "数据结构课程设计",
+          "id": "05110127"
+          },
+          {
+          "score": "96",
+          "retake": "-",
+          "resit": "-",
+          "credit": "1.0",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "96",
+          "name": "面向对象的程序设计课程设计",
+          "id": "05110124"
+          },
+          {
+          "score": "87",
+          "retake": "-",
+          "resit": "-",
+          "credit": "3.5",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "91",
+          "name": "面向对象的程序设计",
+          "id": "05110123"
+          },
+          {
+          "score": "79",
+          "retake": "-",
+          "resit": "-",
+          "credit": "3.0",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "85",
+          "name": "数字逻辑",
+          "id": "05140107"
+          },
+          {
+          "score": "87",
+          "retake": "-",
+          "resit": "-",
+          "credit": "4.0",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "91",
+          "name": "离散数学I",
+          "id": "12130118"
+          },
+          {
+          "score": "80",
+          "retake": "-",
+          "resit": "-",
+          "credit": "2.0",
+          "attribution": "人文社科类",
+          "nature": "3",
+          "grade": "83",
+          "name": "文艺复兴时期的英国文学(通识)",
+          "id": "10130335"
+          },
+          {
+          "score": "73",
+          "retake": "-",
+          "resit": "-",
+          "credit": "3.0",
+          "attribution": "-",
+          "nature": "3",
+          "grade": "77",
+          "name": "概率统计",
+          "id": "12130107"
+          },
+          {
+          "score": "78",
+          "retake": "-",
+          "resit": "-",
+          "credit": "1.0",
+          "attribution": "-",
+          "nature": "1",
+          "grade": "76",
+          "name": "英语口语3",
+          "id": "10130107"
+          },
+          {
+          "score": "63",
+          "retake": "-",
+          "resit": "-",
+          "credit": "2.0",
+          "attribution": "-",
+          "nature": "1",
+          "grade": "70",
+          "name": "大学英语3",
+          "id": "10110103"
+          },
+          {
+          "score": "67",
+          "retake": "-",
+          "resit": "-",
+          "credit": "2.0",
+          "attribution": "-",
+          "nature": "1",
+          "grade": "75",
+          "name": "大学物理II2",
+          "id": "12120105"
+          },
+          {
+          "score": "48",
+          "retake": "-",
+          "resit": "-",
+          "credit": "5.0",
+          "attribution": "-",
+          "nature": "1",
+          "grade": "63",
+          "name": "毛泽东思想和中国特色社会主义理论体系概论",
+          "id": "09120107"
+          }
+          ],
+    "4": [
+          {
+          "score": "80",
+          "retake": "-",
+          "resit": "-",
+          "credit": "1.0",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "80",
+          "name": "计算机网络课程设计",
+          "id": "05110120"
+          },
+          {
+          "score": "64",
+          "retake": "-",
+          "resit": "-",
+          "credit": "4.0",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "69",
+          "name": "操作系统",
+          "id": "05110111"
+          },
+          {
+          "score": "86",
+          "retake": "-",
+          "resit": "-",
+          "credit": "1.0",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "86",
+          "name": "java程序设计课程设计",
+          "id": "05110180"
+          },
+          {
+          "score": "77",
+          "retake": "-",
+          "resit": "-",
+          "credit": "3.5",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "80",
+          "name": "JAVA程序设计",
+          "id": "05110351"
+          },
+          {
+          "score": "81",
+          "retake": "-",
+          "resit": "-",
+          "credit": "4.0",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "89",
+          "name": "计算机网络技术",
+          "id": "05140105"
+          },
+          {
+          "score": "80",
+          "retake": "-",
+          "resit": "-",
+          "credit": "4.0",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "83",
+          "name": "数据库系统概论",
+          "id": "05120114"
+          },
+          {
+          "score": "78",
+          "retake": "-",
+          "resit": "-",
+          "credit": "1.5",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "78",
+          "name": "男子足球4",
+          "id": "13201054"
+          },
+          {
+          "score": "89",
+          "retake": "-",
+          "resit": "-",
+          "credit": "3.0",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "89",
+          "name": "社会实践",
+          "id": "00000106"
+          },
+          {
+          "score": "优",
+          "retake": "-",
+          "resit": "-",
+          "credit": "2.0",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "优",
+          "name": "大学物理实验I2",
+          "id": "12120108"
+          },
+          {
+          "score": "60",
+          "retake": "-",
+          "resit": "-",
+          "credit": "3.0",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "70",
+          "name": "马克思主义基本原理",
+          "id": "09130121"
+          },
+          {
+          "score": "88",
+          "retake": "-",
+          "resit": "-",
+          "credit": "1.0",
+          "attribution": "-",
+          "nature": "2",
+          "grade": "88",
+          "name": "英语口语4",
+          "id": "10130108"
+          },
+          {
+          "score": "81",
+          "retake": "-",
+          "resit": "-",
+          "credit": "2.0",
+          "attribution": "人文社科类",
+          "nature": "3",
+          "grade": "41",
+          "name": "聚焦西方文化生活(通识)",
+          "id": "10130350"
+          },
+          {
+          "score": "48.5",
+          "retake": "-",
+          "resit": "-",
+          "credit": "2.0",
+          "attribution": "-",
+          "nature": "1",
+          "grade": "60",
+          "name": "大学英语4",
+          "id": "10110104"
+          }
+          ]
+}

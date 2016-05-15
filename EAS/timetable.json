@@ -1,0 +1,715 @@
+{
+    "6": [
+          {
+          "location": "东7-B205",
+          "day": "1",
+          "name": "XML",
+          "period": "1-2",
+          "nature": "选修课",
+          "duration": "1-12",
+          "teacher": "林菁"
+          },
+          {
+          "location": "东7-B209",
+          "day": "3",
+          "name": "移动设备程序设计",
+          "period": "1-2",
+          "nature": "选修课",
+          "duration": "1-12",
+          "teacher": "袁操"
+          },
+          {
+          "location": "东7-B205",
+          "day": "4",
+          "name": "XML",
+          "period": "1-2",
+          "nature": "选修课",
+          "duration": "1-12",
+          "teacher": "林菁"
+          },
+          {
+          "location": "东7-B205",
+          "day": "1",
+          "name": "TCP/IP协议分析",
+          "period": "3-4",
+          "nature": "核心必修课",
+          "duration": "1-12",
+          "teacher": "张红武"
+          },
+          {
+          "location": "东7-B203",
+          "day": "2",
+          "name": "汇编语言程序设计",
+          "period": "3-4",
+          "nature": "选修课",
+          "duration": "1-12",
+          "teacher": "李诗高"
+          },
+          {
+          "location": "东7-B203",
+          "day": "3",
+          "name": "TCP/IP协议分析",
+          "period": "3-4",
+          "nature": "核心必修课",
+          "duration": "1-12",
+          "teacher": "张红武"
+          },
+          {
+          "location": "东7-B204",
+          "day": "4",
+          "name": "汇编语言程序设计",
+          "period": "3-4",
+          "nature": "选修课",
+          "duration": "1-12",
+          "teacher": "李诗高"
+          },
+          {
+          "location": "东7-B201",
+          "day": "5",
+          "name": "软件工程概论",
+          "period": "3-4",
+          "nature": "选修课",
+          "duration": "1-12",
+          "teacher": "桂兵祥"
+          },
+          {
+          "location": "东7-B209",
+          "day": "1",
+          "name": "移动设备程序设计",
+          "period": "5-6",
+          "nature": "选修课",
+          "duration": "1-12",
+          "teacher": "袁操"
+          },
+          {
+          "location": "东7-B203",
+          "day": "2",
+          "name": "软件工程概论",
+          "period": "5-6",
+          "nature": "选修课",
+          "duration": "1-12",
+          "teacher": "桂兵祥"
+          },
+          {
+          "location": "东7-B204",
+          "day": "3",
+          "name": "网络工程专业英语",
+          "period": "5-7",
+          "nature": "选修课",
+          "duration": "1-10",
+          "teacher": "桂兵祥"
+          }
+          ],
+    "3": [
+          {
+          "location": "基础楼0501",
+          "day": "1",
+          "name": "数字逻辑",
+          "period": "1-2",
+          "nature": "必修课",
+          "duration": "1-16",
+          "teacher": "刘昌华"
+          },
+          {
+          "location": "基础楼0105",
+          "day": "2",
+          "name": "大学物理II2",
+          "period": "1-2",
+          "nature": "核心必修课",
+          "duration": "1-16",
+          "teacher": "惠子"
+          },
+          {
+          "location": "文管楼0114",
+          "day": "3",
+          "name": "英语口语3",
+          "week": "odd",
+          "period": "1-2",
+          "nature": "核心必修课",
+          "duration": "1-15",
+          "teacher": "新外教6"
+          },
+          {
+          "location": "机械楼0206",
+          "day": "4",
+          "name": "离散数学I",
+          "period": "1-2",
+          "nature": "必修课",
+          "duration": "1-16",
+          "teacher": "左翠华"
+          },
+          {
+          "location": "基础楼0102",
+          "day": "5",
+          "name": "概率统计",
+          "week": "odd",
+          "period": "1-2",
+          "nature": "选修课",
+          "duration": "1-15",
+          "teacher": "涂平"
+          },
+          {
+          "location": "金银湖体育场",
+          "day": "1",
+          "name": "羽毛球3",
+          "period": "3-4",
+          "nature": "必修课",
+          "duration": "10-16",
+          "teacher": "周松蕾"
+          },
+          {
+          "location": "基础楼0102",
+          "day": "2",
+          "name": "概率统计",
+          "period": "3-4",
+          "nature": "选修课",
+          "duration": "1-16",
+          "teacher": "涂平"
+          },
+          {
+          "location": "基础楼0307",
+          "day": "3",
+          "name": "数字逻辑",
+          "week": "odd",
+          "period": "3-4",
+          "nature": "必修课",
+          "duration": "1-15",
+          "teacher": "刘昌华"
+          },
+          {
+          "location": "机械楼0204",
+          "day": "4",
+          "name": "大学英语3",
+          "period": "3-4",
+          "nature": "核心必修课",
+          "duration": "1-16",
+          "teacher": "黄宇洁"
+          },
+          {
+          "location": "基础楼0302",
+          "day": "1",
+          "name": "毛泽东思想和中国特色社会主义理论体系概论",
+          "period": "5-6",
+          "nature": "核心必修课",
+          "duration": "1-16",
+          "teacher": "余茂辉"
+          },
+          {
+          "location": "基础楼0305",
+          "day": "2",
+          "name": "离散数学I",
+          "period": "5-6",
+          "nature": "必修课",
+          "duration": "1-16",
+          "teacher": "左翠华"
+          },
+          {
+          "day": "3",
+          "name": "英语自主学习3",
+          "week": "odd",
+          "period": "5-6",
+          "nature": "必修课",
+          "duration": "1-15",
+          "teacher": "罗敏"
+          },
+          {
+          "location": "基础楼0301",
+          "day": "3",
+          "name": "面向对象的程序设计",
+          "period": "5-6",
+          "nature": "必修课",
+          "duration": "1-14",
+          "teacher": "贾瑜"
+          },
+          {
+          "location": "基础楼0201",
+          "day": "5",
+          "name": "毛泽东思想和中国特色社会主义理论体系概论",
+          "period": "5-6",
+          "nature": "核心必修课",
+          "duration": "1-16",
+          "teacher": "余茂辉"
+          },
+          {
+          "location": "基础楼0307",
+          "day": "1",
+          "name": "面向对象的程序设计",
+          "period": "7-8",
+          "nature": "必修课",
+          "duration": "1-14",
+          "teacher": "贾瑜"
+          },
+          {
+          "location": "文管楼0307",
+          "day": "3",
+          "name": "西方文明溯源(通识)",
+          "period": "7-8",
+          "nature": "选修课",
+          "duration": "2-17",
+          "teacher": "刘玲玉"
+          }
+          ],
+    "1": [
+          {
+          "location": "机械楼0214",
+          "day": "1",
+          "name": "市场营销学",
+          "period": "1-2",
+          "nature": "选修课",
+          "duration": "4-14",
+          "teacher": "朱亚多"
+          },
+          {
+          "location": "文管楼0303",
+          "day": "3",
+          "name": "计算机网络基础(通识)",
+          "period": "1-2",
+          "nature": "选修课",
+          "duration": "4-18",
+          "teacher": "李幼平"
+          },
+          {
+          "location": "机械楼0202",
+          "day": "4",
+          "name": "大学英语1",
+          "period": "1-2",
+          "nature": "核心必修课",
+          "duration": "4-18",
+          "teacher": "罗敏"
+          },
+          {
+          "location": "机械楼0302",
+          "day": "5",
+          "name": "中国近现代史纲要",
+          "period": "1-2",
+          "nature": "必修课",
+          "duration": "4-17",
+          "teacher": "刘兆恒"
+          },
+          {
+          "location": "基础楼0105",
+          "day": "1",
+          "name": "经济数学1",
+          "period": "3-4",
+          "nature": "核心必修课",
+          "duration": "4-17",
+          "teacher": "卢军"
+          },
+          {
+          "location": "机械楼0205",
+          "day": "2",
+          "name": "英语写作",
+          "period": "3-4",
+          "nature": "选修课",
+          "duration": "4-18",
+          "teacher": "仇娟"
+          },
+          {
+          "location": "基础楼0108",
+          "day": "3",
+          "name": "经济数学1",
+          "period": "3-4",
+          "nature": "核心必修课",
+          "duration": "4-17",
+          "teacher": "卢军"
+          },
+          {
+          "location": "基础楼0105",
+          "day": "4",
+          "name": "经济数学1",
+          "period": "3-4",
+          "nature": "核心必修课",
+          "duration": "4-17",
+          "teacher": "卢军"
+          },
+          {
+          "location": "金银湖体育场",
+          "day": "5",
+          "name": "大学体育1",
+          "period": "3-4",
+          "nature": "必修课",
+          "duration": "4-17",
+          "teacher": "万珺"
+          },
+          {
+          "location": "机械楼0202",
+          "day": "1",
+          "name": "英语阅读1",
+          "period": "5-6",
+          "nature": "选修课",
+          "duration": "4-18",
+          "teacher": "焦玲"
+          },
+          {
+          "location": "机械楼0214",
+          "day": "2",
+          "name": "国际贸易地理",
+          "period": "5-7",
+          "nature": "选修课",
+          "duration": "4-14",
+          "teacher": "王锐"
+          },
+          {
+          "location": "基础楼0209",
+          "day": "5",
+          "name": "市场营销学",
+          "week": "odd",
+          "period": "5-6",
+          "nature": "选修课",
+          "duration": "5-13",
+          "teacher": "朱亚多"
+          },
+          {
+          "location": "基础楼0108",
+          "day": "5",
+          "name": "英语口语1",
+          "week": "odd",
+          "period": "7-8",
+          "nature": "核心必修课",
+          "duration": "5-17",
+          "teacher": "新外教10"
+          },
+          {
+          "location": "基础楼0405",
+          "day": "4",
+          "name": "管理学",
+          "period": "9-11",
+          "nature": "核心必修课",
+          "duration": "4-14",
+          "teacher": "黄恩"
+          }
+          ],
+    "5": [
+          {
+          "location": "机械楼0305",
+          "day": "2",
+          "name": "计算机组成原理",
+          "period": "1-2",
+          "nature": "核心必修课",
+          "duration": "1-16",
+          "teacher": "蒋丽华"
+          },
+          {
+          "location": "机械楼0214",
+          "day": "4",
+          "name": "计算机组成原理",
+          "period": "1-2",
+          "nature": "核心必修课",
+          "duration": "1-16",
+          "teacher": "蒋丽华"
+          },
+          {
+          "location": "机械楼0305",
+          "day": "1",
+          "name": "网络互联技术",
+          "period": "3-4",
+          "nature": "核心必修课",
+          "duration": "1-16",
+          "teacher": "桂兵祥"
+          },
+          {
+          "location": "基础楼0210",
+          "day": "3",
+          "name": "网络互联技术",
+          "week": "odd",
+          "period": "3-4",
+          "nature": "核心必修课",
+          "duration": "1-15",
+          "teacher": "桂兵祥"
+          },
+          {
+          "location": "文管楼0204",
+          "day": "1",
+          "name": "计算机算法基础",
+          "period": "5-7",
+          "nature": "选修课",
+          "duration": "1-16",
+          "teacher": "汤小月"
+          },
+          {
+          "location": "文管楼0215",
+          "day": "2",
+          "name": "网站开发工具",
+          "period": "5-7",
+          "nature": "选修课",
+          "duration": "1-16",
+          "teacher": "刘兵"
+          },
+          {
+          "location": "基础楼0402",
+          "day": "3",
+          "name": "网络安全基础",
+          "period": "5-7",
+          "nature": "选修课",
+          "duration": "1-16",
+          "teacher": "张红武"
+          },
+          {
+          "location": "文管楼0311",
+          "day": "5",
+          "name": "Web高级程序设计",
+          "period": "5-7",
+          "nature": "必修课",
+          "duration": "1-16",
+          "teacher": "刘兵"
+          },
+          {
+          "day": "3",
+          "name": "从爱因斯坦到霍金的宇宙(通识)",
+          "period": "9-11",
+          "nature": "公选课",
+          "duration": "4-14",
+          "teacher": "赵峥"
+          }
+          ],
+    "2": [
+          {
+          "location": "文管楼0103",
+          "day": "1",
+          "name": "经济数学2",
+          "period": "1-2",
+          "nature": "必修课",
+          "duration": "1-16",
+          "teacher": "范丽丽"
+          },
+          {
+          "location": "基础楼0311",
+          "day": "2",
+          "name": "英语写作2",
+          "period": "1-2",
+          "nature": "选修课",
+          "duration": "1-16",
+          "teacher": "仇娟"
+          },
+          {
+          "location": "基础楼0404",
+          "day": "3",
+          "name": "网页设计与制作(通识)",
+          "period": "1-2",
+          "nature": "公选课",
+          "duration": "2-17",
+          "teacher": "刘光蓉"
+          },
+          {
+          "location": "文管楼0305",
+          "day": "4",
+          "name": "大学英语2",
+          "period": "1-2",
+          "nature": "核心必修课",
+          "duration": "1-16",
+          "teacher": "罗敏"
+          },
+          {
+          "location": "文管楼0103",
+          "day": "5",
+          "name": "经济数学2",
+          "period": "1-2",
+          "nature": "必修课",
+          "duration": "1-16",
+          "teacher": "范丽丽"
+          },
+          {
+          "location": "文管楼0209",
+          "day": "1",
+          "name": "会计学原理",
+          "period": "3-4",
+          "nature": "必修课",
+          "duration": "1-16",
+          "teacher": "黄颖"
+          },
+          {
+          "location": "金银湖体育场",
+          "day": "2",
+          "name": "男子篮球2",
+          "period": "3-4",
+          "nature": "必修课",
+          "duration": "1-16",
+          "teacher": "赵学功"
+          },
+          {
+          "location": "文管楼0216",
+          "day": "3",
+          "name": "微观经济学",
+          "period": "3-4",
+          "nature": "必修课",
+          "duration": "1-16",
+          "teacher": "陈会玲"
+          },
+          {
+          "location": "文管楼0205",
+          "day": "5",
+          "name": "微观经济学",
+          "week": "odd",
+          "period": "3-4",
+          "nature": "必修课",
+          "duration": "1-15",
+          "teacher": "陈会玲"
+          },
+          {
+          "location": "文管楼0305",
+          "day": "2",
+          "name": "国际贸易",
+          "period": "5-7",
+          "nature": "必修课",
+          "duration": "1-16",
+          "teacher": "王锐"
+          },
+          {
+          "location": "文管楼0208",
+          "day": "3",
+          "name": "道德与法",
+          "period": "5-7",
+          "nature": "必修课",
+          "duration": "1-16",
+          "teacher": "唐俊峰"
+          },
+          {
+          "day": "5",
+          "name": "英语自主学习2",
+          "week": "odd",
+          "period": "5-6",
+          "nature": "必修课",
+          "duration": "1-15",
+          "teacher": "新外教2"
+          },
+          {
+          "location": "文管楼0212",
+          "day": "5",
+          "name": "英语口语2",
+          "week": "even",
+          "period": "5-6",
+          "nature": "必修课",
+          "duration": "2-16",
+          "teacher": "新外教2"
+          }
+          ],
+    "4": [
+          {
+          "location": "基础楼0205",
+          "day": "1",
+          "name": "操作系统",
+          "period": "1-2",
+          "nature": "必修课",
+          "duration": "1-16",
+          "teacher": "黄川"
+          },
+          {
+          "location": "基础楼0405",
+          "day": "2",
+          "name": "JAVA程序设计",
+          "period": "1-2",
+          "nature": "必修课",
+          "duration": "1-14",
+          "teacher": "蒋祖国"
+          },
+          {
+          "location": "基础楼0205",
+          "day": "3",
+          "name": "操作系统",
+          "period": "1-2",
+          "nature": "必修课",
+          "duration": "1-16",
+          "teacher": "黄川"
+          },
+          {
+          "location": "基础楼0302",
+          "day": "4",
+          "name": "JAVA程序设计",
+          "period": "1-2",
+          "nature": "必修课",
+          "duration": "1-14",
+          "teacher": "蒋祖国"
+          },
+          {
+          "location": "基础楼0205",
+          "day": "5",
+          "name": "计算机网络技术",
+          "period": "1-2",
+          "nature": "必修课",
+          "duration": "1-16",
+          "teacher": "张红武"
+          },
+          {
+          "location": "金银湖体育场",
+          "day": "1",
+          "name": "羽毛球4",
+          "period": "3-4",
+          "nature": "必修课",
+          "duration": "1-16",
+          "teacher": "周松蕾"
+          },
+          {
+          "location": "基础楼0302",
+          "day": "2",
+          "name": "计算机网络技术",
+          "period": "3-4",
+          "nature": "必修课",
+          "duration": "1-16",
+          "teacher": "张红武"
+          },
+          {
+          "location": "机械楼0204",
+          "day": "4",
+          "name": "大学英语4",
+          "period": "3-4",
+          "nature": "核心必修课",
+          "duration": "1-16",
+          "teacher": "黄宇洁"
+          },
+          {
+          "location": "基础楼0301",
+          "day": "5",
+          "name": "数据库系统概论",
+          "period": "3-4",
+          "nature": "必修课",
+          "duration": "1-16",
+          "teacher": "欧阳峥峥"
+          },
+          {
+          "location": "文管楼0114",
+          "day": "1",
+          "name": "英语口语4",
+          "week": "odd",
+          "period": "5-6",
+          "nature": "必修课",
+          "duration": "1-15",
+          "teacher": "新外教6"
+          },
+          {
+          "day": "1",
+          "name": "英语自主学习4",
+          "week": "even",
+          "period": "5-6",
+          "nature": "必修课",
+          "duration": "2-16",
+          "teacher": "新外教6"
+          },
+          {
+          "location": "基础楼0404",
+          "day": "2",
+          "name": "数据库系统概论",
+          "period": "5-6",
+          "nature": "必修课",
+          "duration": "1-16",
+          "teacher": "欧阳峥峥"
+          },
+          {
+          "location": "基础楼0201",
+          "day": "3",
+          "name": "马克思主义基本原理",
+          "period": "5-7",
+          "nature": "必修课",
+          "duration": "1-16",
+          "teacher": "阳海音"
+          },
+          {
+          "location": "文管楼0216",
+          "day": "3",
+          "name": "欧洲文化入门(通识)",
+          "period": "9-11",
+          "nature": "选修课",
+          "duration": "4-14",
+          "teacher": "王定全"
+          }
+          ]
+}
